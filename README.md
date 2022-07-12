@@ -27,7 +27,12 @@ A chave pública é o par {e, n}, a chave privada {d, n}.
 
 Os projetos foram estruturados da seguinte forma, um método main que receberá como argumento três caminhos de arquivos, sendo NECESSÁRIO que a ordem de parâmetros seja respeitada, caso contrário o algoritimo não funcionará corretamente. 
 
-O arquivo que contém as chaves, devem conter apenas os números das chaves, com três linhas e a ordem de parâmetros deve ser: 
+Ordem de parâmetros deve ser:
+1. Caminho do arquivo que contém as chaves
+2. Caminho do arquivo que contém o contúdo 
+3. Caminho do arquivo de saída
+
+O arquivo que contém as chaves, devem conter apenas os números das chaves, com três linhas: 
 1. Módulo 
 2. Chave Privada 
 3. Chave Pública
