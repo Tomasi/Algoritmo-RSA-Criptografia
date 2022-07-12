@@ -1,4 +1,4 @@
-# Documentação criptografia com RSA
+# Documentação Criptografia com RSA
 
 Católica de Santa Catarina
 
@@ -14,7 +14,7 @@ Utiliza-se chaves assimétricas, ou seja, existem duas chaves distintas, uma pú
 
 O algoritmo "GetKeys.java" do repositório, gera a chave pública e a chave privada. Sendo necessário, apenas passar para a aplicação, através da interação via console aplication um par de números primos grandes.
 
-### Passo a Passo para chegar nas chaves 
+### Passo a passo para chegar nas chaves 
 Escolha de forma aleatória dois números primos grandes p e q
 Calcule n = pq
 Calcule a função totiente de Euler em: n: T(n) = (p-1)(q-1)
