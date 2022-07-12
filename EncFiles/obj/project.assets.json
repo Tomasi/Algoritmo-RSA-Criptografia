@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Engenharia de Software\\Segurança da Informação\\N3\\EncFiles\\EncFiles.csproj",
+      "projectUniqueName": "C:\\Engenharia de Software\\Segurança da Informação\\git-repository-RSA\\EncFiles\\EncFiles.csproj",
       "projectName": "EncFiles",
-      "projectPath": "C:\\Engenharia de Software\\Segurança da Informação\\N3\\EncFiles\\EncFiles.csproj",
+      "projectPath": "C:\\Engenharia de Software\\Segurança da Informação\\git-repository-RSA\\EncFiles\\EncFiles.csproj",
       "packagesPath": "C:\\Users\\igort\\.nuget\\packages\\",
-      "outputPath": "C:\\Engenharia de Software\\Segurança da Informação\\N3\\EncFiles\\obj\\",
+      "outputPath": "C:\\Engenharia de Software\\Segurança da Informação\\git-repository-RSA\\EncFiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

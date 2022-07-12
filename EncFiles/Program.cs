@@ -44,11 +44,11 @@ namespace Program
                                             "\n3. Path of output file.\n");
             }
 
-            string? publicKeyFilePath = args[0];
+            string? kyeFilePath = args[0];
             string? sourceFilePath = args[1];
             string? destFilePath = args[2];
 
-            string[] keys = File.ReadAllLines(publicKeyFilePath);
+            string[] keys = File.ReadAllLines(kyeFilePath);
             string sourceText = File.ReadAllText(sourceFilePath);
 
             string moduleStr = "";
