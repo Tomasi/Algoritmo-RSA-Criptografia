@@ -62,4 +62,4 @@ Foi utilizada para desenvolvimento a linguagem C#, por apresentar fácil interpr
 
 ## Conclusão
 
-A implementação dessa técnica mostrou-se muito útil para aplicar conhecimentos na linguagem escolhida e compreender como a criptografia com RSA funciona e sua importância.
+A implementação dessa técnica mostrou-se muito útil para aplicar conhecimentos na linguagem escolhida e compreender como a criptografia com RSA funciona, bem como a sua importância.
