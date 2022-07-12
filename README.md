@@ -6,7 +6,7 @@ Alunos: Igor Tomasi e Khauê Souza
 
 ## Introdução
 
-A criptografia estuda os métodos de codificar uma mensagem de tal forma que apenas o destinário consiga decodificá-la, gerando assim uma segurança na troca de mensagens (Citação). O presente projeto, busca implementar e demonstrar a utilização prática da Criptografia com RSA, sendo uma técnica que utiliza a teorica de números para codificação e decodificação de mensagens.
+A criptografia estuda os métodos de codificar uma mensagem de tal forma que apenas o destinário consiga decodificá-la, gerando assim uma segurança na troca de mensagens. O presente projeto, busca implementar e demonstrar a utilização prática da Criptografia com RSA, sendo uma técnica que utiliza a teorica de números para codificação e decodificação de mensagens.
 
 Utiliza-se chaves assimétricas, ou seja, existem duas chaves distintas, uma pública e privada. Sua lógica de uso consiste basicamente, em deixar uma chave pública disponível para qualquer pessoa, ela é utilizada para codificar uma mensagem, em outra ponta teremos uma pessoa que estará em posse da chave privada, única. Nessa ponta, o usuário poderá, através da chave privada desencriptar o arquivo, um conceito amplo de como funciona essa ténica.
 
@@ -27,10 +27,16 @@ A chave pública é o par {e, n}, a chave privada {d, n}.
 
 Os projetos foram estruturados da seguinte forma, um método main que receberá como argumento três caminhos de arquivos, sendo NECESSÁRIO que a ordem de parâmetros seja respeitada, caso contrário o algoritimo não funcionará corretamente. 
 
-Ordem de parâmetros deve ser:
+Ordem de parâmetros *** Programa de Criptografia *** deve ser:
 1. Caminho do arquivo que contém as chaves
 2. Caminho do arquivo que contém o contúdo 
 3. Caminho do arquivo de saída
+
+Ordem de parâmetros *** Programa de Descriptografia *** deve ser:
+1. Caminho do arquivo que contém as chaves
+2. Caminho do arquivo que contém o contúdo criptografado 
+3. Caminho do arquivo de saída
+
 
 O arquivo que contém as chaves, devem conter apenas os números das chaves, com três linhas: 
 1. Módulo 
