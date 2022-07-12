@@ -10,7 +10,7 @@ A criptografia estuda os métodos de codificar uma mensagem de tal forma que ape
 
 Utiliza-se chaves assimétricas, ou seja, existem duas chaves distintas, uma pública e privada. Sua lógica de uso consiste basicamente, em deixar uma chave pública disponível para qualquer pessoa, ela é utilizada para codificar uma mensagem, em outra ponta teremos uma pessoa que estará em posse da chave privada, única. Nessa ponta, o usuário poderá, através da chave privada desencriptar o arquivo, um conceito amplo de como funciona essa ténica.
 
-## Geração do conjunto de chaves
+## Geração do Conjunto de Chaves
 
 O algoritmo "GetKeys.java" do repositório, gera a chave pública e a chave privada. Sendo necessário, apenas passar para a aplicação, através da interação via console aplication um par de números primos grandes.
 
