@@ -16,10 +16,10 @@ O algoritmo "GetKeys.java" do repositório, gera a chave pública e a chave priv
 
 ### Passo a passo para chegar nas chaves 
 Escolha de forma aleatória dois números primos grandes p e q
-Calcule n = pq
-Calcule a função totiente de Euler em: n: T(n) = (p-1)(q-1)
-Escolha um inteiro e tal que 1 < e < T(n), de forma que e e T(n) sejam primos entre si
-Calcule d de forma que d = e^-1 mod (T(n))
+- Calcule n = pq
+- Calcule a função totiente de Euler em: n: T(n) = (p-1)(q-1)
+- Escolha um inteiro e tal que 1 < e < T(n), de forma que e e T(n) sejam primos entre si
+- Calcule d de forma que d = e^-1 mod (T(n))
 
 A chave pública é o par {e, n}, a chave privada {d, n}.
 
