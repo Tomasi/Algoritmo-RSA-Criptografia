@@ -59,3 +59,7 @@ Não foram encontrados muitos problemas, uma vez que entendido o conceito e o ob
 ## Técnologias
 
 Foi utilizada para desenvolvimento a linguagem C#, por apresentar fácil interpretação.
+
+## Conclusão
+
+A implementação dessa técnica mostrou-se muito útil para aplicar conhecimentos na linguagem escolhida e compreender como a criptografia com RSA funciona e sua importância.
