@@ -12,7 +12,7 @@ Utiliza-se chaves assimétricas, ou seja, existem duas chaves distintas, uma pú
 
 ## Geração do conjunto de chaves
 
-O algoritmo (nome do algoritmo) do repositório, gera a chave pública e a chave privada. Sendo necessário, apenas passar para a aplicação, através da interação via console aplication um par de números primos grandes.
+O algoritmo "GetKeys.java" do repositório, gera a chave pública e a chave privada. Sendo necessário, apenas passar para a aplicação, através da interação via console aplication um par de números primos grandes.
 
 ### Passo a Passo para chegar nas chaves 
 Escolha de forma aleatória dois números primos grandes p e q
