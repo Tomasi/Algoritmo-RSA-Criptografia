@@ -27,12 +27,12 @@ A chave pública é o par {e, n}, a chave privada {d, n}.
 
 Os projetos foram estruturados da seguinte forma, um método main que receberá como argumento três caminhos de arquivos, sendo NECESSÁRIO que a ordem de parâmetros seja respeitada, caso contrário o algoritimo não funcionará corretamente. 
 
-Ordem de parâmetros *** Programa de Criptografia *** deve ser:
+Ordem de parâmetros ***Programa de Criptografia*** deve ser:
 1. Caminho do arquivo que contém as chaves
 2. Caminho do arquivo que contém o contúdo 
 3. Caminho do arquivo de saída
 
-Ordem de parâmetros *** Programa de Descriptografia *** deve ser:
+Ordem de parâmetros ***Programa de Descriptografia*** deve ser:
 1. Caminho do arquivo que contém as chaves
 2. Caminho do arquivo que contém o contúdo criptografado 
 3. Caminho do arquivo de saída
