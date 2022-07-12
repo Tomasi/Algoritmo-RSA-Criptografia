@@ -1,0 +1,15 @@
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\bin\Debug\net6.0\EncFiles.exe
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\bin\Debug\net6.0\EncFiles.deps.json
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\bin\Debug\net6.0\EncFiles.runtimeconfig.json
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\bin\Debug\net6.0\EncFiles.dll
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\bin\Debug\net6.0\ref\EncFiles.dll
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\bin\Debug\net6.0\EncFiles.pdb
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.csproj.AssemblyReference.cache
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.AssemblyInfoInputs.cache
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.AssemblyInfo.cs
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.csproj.CoreCompileInputs.cache
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.dll
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\ref\EncFiles.dll
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.pdb
+C:\Engenharia de Software\Segurança da Informação\N3\EncFiles\obj\Debug\net6.0\EncFiles.genruntimeconfig.cache

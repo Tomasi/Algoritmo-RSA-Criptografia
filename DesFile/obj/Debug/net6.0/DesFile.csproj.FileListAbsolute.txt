@@ -1,0 +1,15 @@
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\bin\Debug\net6.0\DesFile.exe
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\bin\Debug\net6.0\DesFile.deps.json
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\bin\Debug\net6.0\DesFile.runtimeconfig.json
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\bin\Debug\net6.0\DesFile.dll
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\bin\Debug\net6.0\ref\DesFile.dll
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\bin\Debug\net6.0\DesFile.pdb
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.csproj.AssemblyReference.cache
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.AssemblyInfoInputs.cache
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.AssemblyInfo.cs
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.csproj.CoreCompileInputs.cache
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.dll
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\ref\DesFile.dll
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.pdb
+C:\Engenharia de Software\Segurança da Informação\N3\DesFile\obj\Debug\net6.0\DesFile.genruntimeconfig.cache
