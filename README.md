@@ -56,7 +56,7 @@ Para descriptografar utilizamos agora, ao invés da chave private a chave públi
 
 Não foram encontrados muitos problemas, uma vez que entendido o conceito e o objetivo, a estruturação do código mostrou-se sem muitos problemas.
 
-## Técnologias
+## Tecnologias
 
 Foi utilizada para desenvolvimento a linguagem C#, por apresentar fácil interpretação.
 
